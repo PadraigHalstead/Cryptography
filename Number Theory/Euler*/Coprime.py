@@ -6,8 +6,8 @@
 import math
 
 # Find gcd(a,b) Have a as bigger number
-a = 1
-b = 1
+a = 727
+b = 683
 
 t = a
 s = b
